@@ -7,7 +7,7 @@ backend
 
 python script
 - model
-- stack-overflow-2018-developer-survey (extrcat first)
+- stack-overflow-2018-developer-survey (extract first)
 
 exploratory data analysis
 - presentasi
